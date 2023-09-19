@@ -1,0 +1,25 @@
+/* Estilos para los resultados */
+.results {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .results h2 {
+    color: #333;
+  }
+  
+  .win {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  .lose {
+    color: #dc3545;
+    font-weight: bold;
+  }
+  
+  .draw {
+    color: #ffc107;
+    font-weight: bold;
+  }
+  
