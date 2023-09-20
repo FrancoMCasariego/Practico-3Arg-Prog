@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Practico-3Arg-Prog/static/css/main.a1d4f2aa.css",
+    "main.js": "/Practico-3Arg-Prog/static/js/main.36a53e45.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Practico-3Arg-Prog/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Paper.png": "/Practico-3Arg-Prog/static/media/Paper.40c611d025c59d6880c8.png",
+    "static/media/Scissors.png": "/Practico-3Arg-Prog/static/media/Scissors.847de6f56969c9859a3a.png",
+    "index.html": "/Practico-3Arg-Prog/index.html",
+    "main.a1d4f2aa.css.map": "/Practico-3Arg-Prog/static/css/main.a1d4f2aa.css.map",
+    "main.36a53e45.js.map": "/Practico-3Arg-Prog/static/js/main.36a53e45.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Practico-3Arg-Prog/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d4f2aa.css",
+    "static/js/main.36a53e45.js"
+  ]
+}
